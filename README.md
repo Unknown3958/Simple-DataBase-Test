@@ -5,6 +5,7 @@ This is just a simple example of a database
 
 Open the folder and double click UnknownDB.
 Then press any key and done.
+Also make sure you have python installed.
 
 # Source Code:
 
